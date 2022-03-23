@@ -1,0 +1,1 @@
+Sur la vidéo j'ai modifié le porgramme pour qu'il analyse que les 7 premières applications trouvé afin que la vidéo ne dure pas trop longtemps.
